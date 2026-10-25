@@ -137,6 +137,11 @@ Yep, you heard that right, that's just scratching the surface. This version is b
 stable and reliable of the Prodigy versions, so you can probably imagine what months of hard work can do to something like that.
 
 [https://oldprodigy.onrender.com/play/](https://oldprodigy.onrender.com/play/)
+## The Space Outlaw’s Addition
+
+As of writing this, The Space Outlaws(I’m the owner) are trying to host and preserve the older versions of this game.
+We need *contributors* to help us achieve this mission! To help you can simply *fork* this repository and **open a PR** and we will happily add your contributions!
+
 
 ## The other version
 
